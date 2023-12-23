@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: StartScreenAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a180efa03220ee24494cdb17b2a65258, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 591c09a3276b6df4c8a4edb4b369ad4d: 3964350814548072326
+    - 5d58afe63a52ddc419b0903fc9a753fa: -4571828015118065507
+    - fdc57398aff0b3e479f9c6e5fb302f78: -642478984565863492
+    - fd3ae6da34174794b849451547d51870: 7039947073846806467
+    - 9b636e0bf2ef2aa44b590c816edebe1c: 5920771661813520212
+    - 0999783befaab6845a810da309c0924c: 6997657395705020496
+    - e648d16b1b1fdd1478674ffb6ca7bc93: -192584375311628898
+    - 7cfb569b5632eb34da86216ddb5518a2: -1189625477453706070
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 3964350814548072326, guid: 591c09a3276b6df4c8a4edb4b369ad4d, type: 3}
+  - {fileID: -4571828015118065507, guid: 5d58afe63a52ddc419b0903fc9a753fa, type: 3}
+  - {fileID: -642478984565863492, guid: fdc57398aff0b3e479f9c6e5fb302f78, type: 3}
+  - {fileID: 7039947073846806467, guid: fd3ae6da34174794b849451547d51870, type: 3}
+  - {fileID: 5920771661813520212, guid: 9b636e0bf2ef2aa44b590c816edebe1c, type: 3}
+  - {fileID: 6997657395705020496, guid: 0999783befaab6845a810da309c0924c, type: 3}
+  - {fileID: -192584375311628898, guid: e648d16b1b1fdd1478674ffb6ca7bc93, type: 3}
+  - {fileID: -1189625477453706070, guid: 7cfb569b5632eb34da86216ddb5518a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - play_button_up_0
+  - back_0
+  - settings_button_0
+  - settings_button_shadow_0
+  - kolovrat_0
+  - play_button_down_0
+  - rating_button_down_0
+  - rating_button_up_0
+  m_RenderDataMap: {}
+  m_Tag: StartScreenAtlas
+  m_IsVariant: 0

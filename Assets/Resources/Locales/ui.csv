@@ -1,0 +1,19 @@
+,ru,en,de
+dolboslav,Долбослав,Dolboslav,Dolboslav
+play,Играть,Play,Spielen
+rating,Рейтинг,Rating,Die Wertung
+settings,Настройки,Settings,Einstellungen
+music,Музыка,Music,Musik
+sound,Звуки,Sound,Geräusche
+language,Язык,Language,Sprache
+go,старт,go,los
+guess_title,Угадано идолов,Guessed idols,Es wurden idole erraten
+correct_title,Из них на своих местах,Of which are in their places,Von denen sich an ihren Plätzen befinden
+again,Заново,Again,Nochmal
+games_over_message,"Упс! У меня закончились все идолы. Подожди, пока я вырежу новых.
+Если не хочешь ждать, можешь купить готовых идолов в магазине, или посмотреть короткий рекламный ролик.","Oops! I've run out of all my idols. Wait until I cut out some new ones.
+If you don't want to wait, you can buy ready-made idols at the store, or watch a short AD video.","Hoppla! Mir sind alle meine Idole ausgegangen. Warte, bis ich ein paar neue ausgeschnitten habe.
+Wenn Sie nicht warten möchten, können Sie im Laden fertige Idole kaufen oder sich ein kurzes Werbevideo ansehen."
+games_over_timer,Я закончу через {0} м. {1} c.,I'll be done in {0} m {1} s.,Ich bin in {0} M und {1} S fertig.
+to_shop,Сходить в магазин,Go to the shop,Gehe zum Laden
+watch_ad,Посмотреть рекламу,View advertisement,Werbung ansehen

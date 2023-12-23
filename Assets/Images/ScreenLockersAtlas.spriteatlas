@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ScreenLockersAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 26ab7f6525304ec43a4ae4084529bc14, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - a31faad037ae41949afb3dba7eb17abd: 21300000
+    - 744f1331e72918c4e95253db22656861: 21300000
+    - 6512ca61381f2f645801fdd47838036a: 21300000
+    - 03a16b231419631409e2fde3b0dd075f: 21300000
+    - dc1c6cb3e5e1e9a43a692ba1b55fbed4: 21300000
+    - 916096e319adb2040bed6bd418dc17b8: 21300000
+    - 35c21c05550a2434b9f34dc9e7cfb2be: 21300000
+    - a4bc90bee6a3e8d4a94f92b4effbe3ae: 21300000
+    - 125b19ced32062943a53d12ae3178a26: 21300000
+    - 8f9cc14ffbcd20a43ad21954121e7551: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: a31faad037ae41949afb3dba7eb17abd, type: 3}
+  - {fileID: 21300000, guid: 744f1331e72918c4e95253db22656861, type: 3}
+  - {fileID: 21300000, guid: 6512ca61381f2f645801fdd47838036a, type: 3}
+  - {fileID: 21300000, guid: 03a16b231419631409e2fde3b0dd075f, type: 3}
+  - {fileID: 21300000, guid: dc1c6cb3e5e1e9a43a692ba1b55fbed4, type: 3}
+  - {fileID: 21300000, guid: 916096e319adb2040bed6bd418dc17b8, type: 3}
+  - {fileID: 21300000, guid: 35c21c05550a2434b9f34dc9e7cfb2be, type: 3}
+  - {fileID: 21300000, guid: a4bc90bee6a3e8d4a94f92b4effbe3ae, type: 3}
+  - {fileID: 21300000, guid: 125b19ced32062943a53d12ae3178a26, type: 3}
+  - {fileID: 21300000, guid: 8f9cc14ffbcd20a43ad21954121e7551, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - dolboslav_contour
+  - icon1
+  - icon2
+  - icon3
+  - icon
+  - cloud1
+  - border
+  - icon4
+  - step_screen_locker_back
+  - cloud2
+  m_RenderDataMap: {}
+  m_Tag: ScreenLockersAtlas
+  m_IsVariant: 0

@@ -1,2 +1,2 @@
 # dolboslav
-Simple casual logic game.
+Simple casual logic game
